@@ -1,13 +1,4 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -22,17 +13,13 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/gsalgado/GeneradorEnterosUnoASiete">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
+ 
 <h3 align="center">Generador de enteros aleatorios entre uno y siete</h3>
 
   <p align="center">
@@ -81,25 +68,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gsalgado`, `GeneradorEnterosUnoASiete`, `twitter_handle`, `linkedin_username`, ``, `gsalgado@advancedradartechnologies.com`, `Generador de enteros aleatorios entre uno y siete`, `Programa que genera un número aleatorio entre 1 y 7 a partir de un número aleatorio entre 1 y 5`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Eclipse][Eclipse.js]][Eclipse-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -142,9 +115,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The program has no arguments, run the program and it will show the results in the console.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -225,11 +196,9 @@ Project Link: [https://github.com/gsalgado/GeneradorEnterosUnoASiete](https://gi
 [issues-url]: https://github.com/gsalgado/GeneradorEnterosUnoASiete/issues
 [license-shield]: https://img.shields.io/github/license/gsalgado/GeneradorEnterosUnoASiete.svg?style=for-the-badge
 [license-url]: https://github.com/gsalgado/GeneradorEnterosUnoASiete/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+[Eclipse.js]: [https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://i1.wp.com/keyholesoftware.com/wp-content/uploads/eclipse-IDE.png?fit=700%2C400&ssl=1)
+[Eclipse-url]: https://eclipse.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
